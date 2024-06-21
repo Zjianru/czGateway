@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: czGateway
+server:
+    port: 6000
